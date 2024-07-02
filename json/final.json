@@ -1,0 +1,3621 @@
+[
+  {
+    "title": "Welcome to Sigma",
+    "learningPath": [
+      {
+        "videoId": "65b2831f779197a8310da563",
+        "videoType": "pdf",
+        "VideoTitle": "Curriculum",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/SIGMA BATCH-2.pdf"
+      },
+      {
+        "videoId": "65b2831f779197a8310da564",
+        "videoType": "pdf",
+        "VideoTitle": "Fill Your Details",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/1-Welcome PDF Sigma.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Session Recordings",
+    "learningPath": [
+      {
+        "videoId": "65d339d61cf30312d00e0823",
+        "videoType": "ivideo",
+        "VideoTitle": "Orientation Session-Recording",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wcjphbvpay"
+      },
+      {
+        "videoId": "65e06cae2de88051b2050c3a",
+        "videoType": "ivideo",
+        "VideoTitle": "Mentorship on LinkedIn by Aman Sir",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1alo2gn8td"
+      },
+      {
+        "videoId": "660e52d02263bde95b01f5b6",
+        "videoType": "ivideo",
+        "VideoTitle": "Mentorship session on Resume Building by Shradha Ma'am",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wbg6femgvn"
+      }
+    ]
+  },
+  {
+    "title": "Important - Telegram Community",
+    "learningPath": [
+      {
+        "videoId": "65cd8f3907ab8f47520ac948",
+        "videoType": "pdf",
+        "VideoTitle": "Link to Join",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Telegram Link Sigma2.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Discord Community",
+    "learningPath": [
+      {
+        "videoId": "65d0778915dcd2d89f0d3075",
+        "videoType": "ivideo",
+        "VideoTitle": "Steps to Follow",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/z1pvnhew25"
+      }
+    ]
+  },
+  {
+    "title": "Introduction",
+    "learningPath": [
+      {
+        "videoId": "65ce19c85b95a39e1f0e2ba9",
+        "videoType": "ivideo",
+        "VideoTitle": "Welcome to Delta!",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hucl9u6so2"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2baa",
+        "videoType": "ivideo",
+        "VideoTitle": "What is the Internet?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/m9wv4feydy"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bab",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Web Development?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3qi5un6lj3"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bac",
+        "videoType": "ivideo",
+        "VideoTitle": "What will we learn?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vycpb4611f"
+      }
+    ]
+  },
+  {
+    "title": "Prerequisites ",
+    "learningPath": [
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bad",
+        "videoType": "ivideo",
+        "VideoTitle": "Prerequisites",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/36rob479bs"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bae",
+        "videoType": "pdf",
+        "VideoTitle": "Installation Resources",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/1-Installation Guide.pdf"
+      }
+    ]
+  },
+  {
+    "title": "HTML (Level 1) - Part A",
+    "learningPath": [
+      {
+        "videoId": "65ce19c85b95a39e1f0e2baf",
+        "videoType": "ivideo",
+        "VideoTitle": "Introduction to HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qxbvokwmqj"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb0",
+        "videoType": "ivideo",
+        "VideoTitle": "HTML Elements &amp; Tags",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9ifsi19vbr"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb1",
+        "videoType": "ivideo",
+        "VideoTitle": "Hello World",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fp2h3r3nvu"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb2",
+        "videoType": "ivideo",
+        "VideoTitle": "Paragraph Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/g9na6rypsh"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb3",
+        "videoType": "ivideo",
+        "VideoTitle": "Heading Elements",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sobe72tnxk"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb4",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs (Level1A)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cfoqf4a3hc"
+      },
+      {
+        "videoId": "65ce19c85b95a39e1f0e2bb5",
+        "videoType": "ivideo",
+        "VideoTitle": "Boilerplate Code",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/t51tsv4qzq"
+      }
+    ]
+  },
+  {
+    "title": "HTML (Level 1) - Part B",
+    "learningPath": [
+      {
+        "videoId": "65cf3e0a997393425f0fda96",
+        "videoType": "ivideo",
+        "VideoTitle": "Lists in HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vw5us5aovy"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda97",
+        "videoType": "ivideo",
+        "VideoTitle": "Attributes in HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bpffcphcpm"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda98",
+        "videoType": "ivideo",
+        "VideoTitle": "Anchor Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bp0yxwp6ec"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda99",
+        "videoType": "ivideo",
+        "VideoTitle": "Image Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6huct4z3gr"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9a",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9t250om9ez"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9b",
+        "videoType": "ivideo",
+        "VideoTitle": "More HTML Tags",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cdy348g59o"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9c",
+        "videoType": "ivideo",
+        "VideoTitle": "Comments in HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3pi93h105v"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9d",
+        "videoType": "ivideo",
+        "VideoTitle": "Is HTML Case Sensitive?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/g5mlw0qcsu"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9e",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/danqem6ygu"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fda9f",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML (Level 1) Qs.pdf"
+      },
+      {
+        "videoId": "65cf3e0a997393425f0fdaa0",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML Level1 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "HTML (Level 2)",
+    "learningPath": [
+      {
+        "videoId": "65d0fd35248d7066890ee1d3",
+        "videoType": "ivideo",
+        "VideoTitle": "Inline v/s Block",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7oowvmgcal"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d4",
+        "videoType": "ivideo",
+        "VideoTitle": "Div Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/d8z01byr2y"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d5",
+        "videoType": "ivideo",
+        "VideoTitle": "Span Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3iel3ki50u"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d6",
+        "videoType": "ivideo",
+        "VideoTitle": "Hr Tag",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/irg61p1y6j"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d7",
+        "videoType": "ivideo",
+        "VideoTitle": "Sup &amp; Sub Tags",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3q1oq3tkzi"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d8",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/in3zq099r2"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1d9",
+        "videoType": "ivideo",
+        "VideoTitle": "Semantic Markup",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u4f772478e"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1da",
+        "videoType": "ivideo",
+        "VideoTitle": "Semantic Tags",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1aubc783az"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1db",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lnmjqscmau"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1dc",
+        "videoType": "ivideo",
+        "VideoTitle": "HTML Entities",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6x68liv18j"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1dd",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/panzbsb5d6"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1de",
+        "videoType": "ivideo",
+        "VideoTitle": "Emmets",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/oeylvd5qgx"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1df",
+        "videoType": "ivideo",
+        "VideoTitle": "Further Understanding HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0df8zr5u37"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e0",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML Level 2 (Qs).pdf"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e1",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML Level 2 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "HTML (Level 3)",
+    "learningPath": [
+      {
+        "videoId": "65d0fd35248d7066890ee1e2",
+        "videoType": "ivideo",
+        "VideoTitle": "Tables in HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3hvrosdm8f"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e3",
+        "videoType": "ivideo",
+        "VideoTitle": "Semantics in Tables",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9hj8qvduqg"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e4",
+        "videoType": "ivideo",
+        "VideoTitle": "Colspan &amp; Rowspan Attributes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/y3fba8sjfj"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e5",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v5xwozhqwu"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e6",
+        "videoType": "ivideo",
+        "VideoTitle": "Forms in HTML",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wqzoijwsmu"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e7",
+        "videoType": "ivideo",
+        "VideoTitle": "Input - Form Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9t4nndd5hn"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e8",
+        "videoType": "ivideo",
+        "VideoTitle": "Placeholders &amp; Labels",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x9fphbckn0"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1e9",
+        "videoType": "ivideo",
+        "VideoTitle": "Button Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wtl2o0wcx0"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1ea",
+        "videoType": "ivideo",
+        "VideoTitle": "Name Attribute",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/n5jeloaqqb"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1eb",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ld7h6159vx"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1ec",
+        "videoType": "ivideo",
+        "VideoTitle": "Checkbox - Input Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/34d4owbgi6"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1ed",
+        "videoType": "ivideo",
+        "VideoTitle": "Radio - Input Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1wh0t07j78"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1ee",
+        "videoType": "ivideo",
+        "VideoTitle": "Select - Input Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kz09bpvkds"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1ef",
+        "videoType": "ivideo",
+        "VideoTitle": "Range - Input Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l7ei4jbh8a"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1f0",
+        "videoType": "ivideo",
+        "VideoTitle": "Text Area",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/d5zkf46pzf"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1f1",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4kxssr644i"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1f2",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML Level 3 (Qs).pdf"
+      },
+      {
+        "videoId": "65d0fd35248d7066890ee1f3",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/HTML Level 3 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Getting Started",
+    "learningPath": [
+      {
+        "videoId": "65d339f369ad0790b2007f65",
+        "videoType": "ivideo",
+        "VideoTitle": "What is CSS?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/da8qe50cyu"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f66",
+        "videoType": "ivideo",
+        "VideoTitle": "Basic CSS Format",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/owal0r92dy"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f67",
+        "videoType": "ivideo",
+        "VideoTitle": "Including CSS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dmiixztj84"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f68",
+        "videoType": "ivideo",
+        "VideoTitle": "Color Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dif612ki7m"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f69",
+        "videoType": "ivideo",
+        "VideoTitle": "Background Color Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cgqak53w6a"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6a",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bv20ba1x3u"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6b",
+        "videoType": "ivideo",
+        "VideoTitle": "Color Systems (Name &amp; RGB)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9t6m5irdth"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6c",
+        "videoType": "ivideo",
+        "VideoTitle": "Hex Codes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3t312i6w7h"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6d",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9fn75nvc5o"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6e",
+        "videoType": "ivideo",
+        "VideoTitle": "Text Align Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/iol9wpt8hu"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f6f",
+        "videoType": "ivideo",
+        "VideoTitle": "Font Weight &amp; Text Decoration",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x03a2kmu6f"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f70",
+        "videoType": "ivideo",
+        "VideoTitle": "Line Height &amp; Letter Spacing",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3ogseajx53"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f71",
+        "videoType": "ivideo",
+        "VideoTitle": "Units in CSS (Pixel)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cp7sblc0r6"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f72",
+        "videoType": "ivideo",
+        "VideoTitle": "Font Family",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fxe4xsiqbf"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f73",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s4jp35k4rx"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f74",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part1 (Qs) (1).pdf"
+      },
+      {
+        "videoId": "65d339f369ad0790b2007f75",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 1 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Part 2",
+    "learningPath": [
+      {
+        "videoId": "65d5af5c0d1266b4cd0717d5",
+        "videoType": "pdf",
+        "VideoTitle": "Download Starter HTML",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Download Starter HTML.pdf"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717d6",
+        "videoType": "ivideo",
+        "VideoTitle": "How to download?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8xulqixmpc"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717d7",
+        "videoType": "ivideo",
+        "VideoTitle": "Universal Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rhk3yplbt2"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717d8",
+        "videoType": "ivideo",
+        "VideoTitle": "Element Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/nbud61puaf"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717d9",
+        "videoType": "ivideo",
+        "VideoTitle": "Id Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ximnny6nfv"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717da",
+        "videoType": "ivideo",
+        "VideoTitle": "Class Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xsr9ce8q79"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717db",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dei7y2889s"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717dc",
+        "videoType": "ivideo",
+        "VideoTitle": "Descendant Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dx1bg9703x"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717dd",
+        "videoType": "ivideo",
+        "VideoTitle": "Sibling Combinator",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7j7kovgtch"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717de",
+        "videoType": "ivideo",
+        "VideoTitle": "Child Combinator",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jakuu545gg"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717df",
+        "videoType": "ivideo",
+        "VideoTitle": "Attribute Selector",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6bbyohrbc0"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e0",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ipj4ugm454"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e1",
+        "videoType": "ivideo",
+        "VideoTitle": "Pseudo Class",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hk5qww0av0"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e2",
+        "videoType": "ivideo",
+        "VideoTitle": "Pseudo Element",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/a5szywx9pd"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e3",
+        "videoType": "ivideo",
+        "VideoTitle": "Cascading &amp; Specificity",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ipn7l9df1o"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e4",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/737l4fg9ac"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e5",
+        "videoType": "ivideo",
+        "VideoTitle": "!important in CSS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jfx1ve90a6"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e6",
+        "videoType": "ivideo",
+        "VideoTitle": "Inheritance",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/88n8jcb0kr"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e7",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part2 (Qs).pdf"
+      },
+      {
+        "videoId": "65d5af5c0d1266b4cd0717e8",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 2 (Ans) (1).pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Part 3",
+    "learningPath": [
+      {
+        "videoId": "65d85e54f317e1974f0a8465",
+        "videoType": "pdf",
+        "VideoTitle": "Download Starter HTML",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Download Starter HTML (1).pdf"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8466",
+        "videoType": "ivideo",
+        "VideoTitle": "Box Model",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/57i7t6mn6q"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8467",
+        "videoType": "ivideo",
+        "VideoTitle": "Height &amp; Width",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1hvqtq4qi6"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8468",
+        "videoType": "ivideo",
+        "VideoTitle": "Border",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vr46h7arss"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8469",
+        "videoType": "ivideo",
+        "VideoTitle": "Border Radius",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vnljlnowqd"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846a",
+        "videoType": "ivideo",
+        "VideoTitle": "Padding Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9lnzqddapa"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846b",
+        "videoType": "ivideo",
+        "VideoTitle": "Margin Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/y5rfpa51a5"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846c",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1chwl2h00f"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846d",
+        "videoType": "ivideo",
+        "VideoTitle": "Display Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bapl29tao4"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846e",
+        "videoType": "pdf",
+        "VideoTitle": "Conclusions (Block &amp; Inline)",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Conclusion (Inline &amp; Block).pdf"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a846f",
+        "videoType": "ivideo",
+        "VideoTitle": "Inline-Block",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dakmmqgrsa"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8470",
+        "videoType": "ivideo",
+        "VideoTitle": "Relative Units (Percentage)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/godb0v5j0l"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8471",
+        "videoType": "ivideo",
+        "VideoTitle": "Em &amp; Rem in Units",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sss4eko23t"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8472",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part3 (Qs).pdf"
+      },
+      {
+        "videoId": "65d85e54f317e1974f0a8473",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 3 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Part 4",
+    "learningPath": [
+      {
+        "videoId": "65dacfd212f0f382d10ddffb",
+        "videoType": "ivideo",
+        "VideoTitle": "Alpha &amp; Opacity",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l4vwko4a53"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10ddffc",
+        "videoType": "ivideo",
+        "VideoTitle": "Transitions in CSS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8piberfhkv"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10ddffd",
+        "videoType": "ivideo",
+        "VideoTitle": "Transform - Rotate",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s7u6dw7gji"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10ddffe",
+        "videoType": "ivideo",
+        "VideoTitle": "Tranform - Scale",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9wlv3pdgc5"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10ddfff",
+        "videoType": "ivideo",
+        "VideoTitle": "Transform - Translate",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/z1jpfn3dkq"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de000",
+        "videoType": "ivideo",
+        "VideoTitle": "Transform - Skew",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/828hh9j9ob"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de001",
+        "videoType": "ivideo",
+        "VideoTitle": "Box Shadow",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9b9j46hxvv"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de002",
+        "videoType": "ivideo",
+        "VideoTitle": "Background Image",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tifdwx087b"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de003",
+        "videoType": "ivideo",
+        "VideoTitle": "Card Hover Effect",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wj6hpxm1kw"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de004",
+        "videoType": "ivideo",
+        "VideoTitle": "Position Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k0sgdk78uv"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de005",
+        "videoType": "ivideo",
+        "VideoTitle": "Simple Smiley Face",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8enimluept"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de006",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part4 (Qs) (1).pdf"
+      },
+      {
+        "videoId": "65dacfd212f0f382d10de007",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 4 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Part 5",
+    "learningPath": [
+      {
+        "videoId": "65dddd5aa95c504bb9085465",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Flexbox?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/owwonzcb8b"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085466",
+        "videoType": "ivideo",
+        "VideoTitle": "Display Flex",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/q37bwapho1"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085467",
+        "videoType": "ivideo",
+        "VideoTitle": "Flex Direction",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4gxs2m35i4"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085468",
+        "videoType": "ivideo",
+        "VideoTitle": "Justify Content",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/iawavn4opx"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085469",
+        "videoType": "ivideo",
+        "VideoTitle": "Flex Wrap",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ap4oycwq70"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546a",
+        "videoType": "ivideo",
+        "VideoTitle": "Align Items",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ebljd61kl7"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546b",
+        "videoType": "ivideo",
+        "VideoTitle": "Align Content",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6k6lfdc5ls"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546c",
+        "videoType": "ivideo",
+        "VideoTitle": "Align Self",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x430qvnhw5"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546d",
+        "videoType": "ivideo",
+        "VideoTitle": "Flex Sizing",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9r21928ghv"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546e",
+        "videoType": "ivideo",
+        "VideoTitle": "Flex Shorthand",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2wmsuhswn9"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb908546f",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part5(Qs).pdf"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085470",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 5 (Ans).pdf"
+      },
+      {
+        "videoId": "65dddd5aa95c504bb9085471",
+        "videoType": "pdf",
+        "VideoTitle": "FlexBox Summary",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Flowchart-1-2 2.pdf"
+      }
+    ]
+  },
+  {
+    "title": "CSS - Part 6",
+    "learningPath": [
+      {
+        "videoId": "65e0539f172b2b1e7a094650",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Grid?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wj4f9efc0a"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094651",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Model",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/zwbxce3i1x"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094652",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Template",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tmi1brn0p2"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094653",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Template (repeat)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vtgrzkhnzc"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094654",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Gaps",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/h7ilh83zhl"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094655",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Columns",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/j94ogl21tm"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094656",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Rows",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x1o4u4z3ns"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094657",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid Properties",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/29omceknlb"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094658",
+        "videoType": "ivideo",
+        "VideoTitle": "Animation in CSS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/o654lp1pzf"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094659",
+        "videoType": "ivideo",
+        "VideoTitle": "Animation Shorthand",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4l6k7hvxa3"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465a",
+        "videoType": "ivideo",
+        "VideoTitle": "% in Animation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9uwboqjx3j"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465b",
+        "videoType": "ivideo",
+        "VideoTitle": "Media Queries",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/htyr1en6ds"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465c",
+        "videoType": "ivideo",
+        "VideoTitle": "Media Queries (Orientation)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/orsyg7p2n4"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465d",
+        "videoType": "ivideo",
+        "VideoTitle": "Pet Adoption Page",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vb48hemovw"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465e",
+        "videoType": "pdf",
+        "VideoTitle": "Download Starter Files (Pet Adoption)",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Download Starter HTML (2).pdf"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a09465f",
+        "videoType": "ivideo",
+        "VideoTitle": "z-index",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2hdqzl1jkg"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094660",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part6 (Qs).pdf"
+      },
+      {
+        "videoId": "65e0539f172b2b1e7a094661",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/CSS Part 6 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "Mini Project (CSS)",
+    "learningPath": [
+      {
+        "videoId": "65e33ad5d7ed88c9eb015646",
+        "videoType": "ivideo",
+        "VideoTitle": "Color Theory",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xq8smu09zd"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb015647",
+        "videoType": "ivideo",
+        "VideoTitle": "Typography",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/j0t4g4ai68"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb015648",
+        "videoType": "ivideo",
+        "VideoTitle": "Google Fonts",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cf96ct59uu"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb015649",
+        "videoType": "ivideo",
+        "VideoTitle": "Icons",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gqb9mjfu7n"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564a",
+        "videoType": "pdf",
+        "VideoTitle": "Starter Files",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Download Starter HTML (3).pdf"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564b",
+        "videoType": "ivideo",
+        "VideoTitle": "Introduction",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ymu8e6lg30"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564c",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting Style",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v7nlxbprzj"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564d",
+        "videoType": "ivideo",
+        "VideoTitle": "Sidebar Menu",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qnaiocd93l"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564e",
+        "videoType": "ivideo",
+        "VideoTitle": "Hover Changes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3ncku2j483"
+      },
+      {
+        "videoId": "65e33ad5d7ed88c9eb01564f",
+        "videoType": "ivideo",
+        "VideoTitle": "Configuring Checkbox",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/d8pv98ax5c"
+      }
+    ]
+  },
+  {
+    "title": "Bootstrap",
+    "learningPath": [
+      {
+        "videoId": "65e5d802da027ba7230f47c7",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Bootstrap?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ya3w1ztj2c"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47c8",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Bootstrap",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2oc6vviqox"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47c9",
+        "videoType": "ivideo",
+        "VideoTitle": "Container (Layout)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ydppso67qm"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47ca",
+        "videoType": "ivideo",
+        "VideoTitle": "Button (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lf6704i5m0"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47cb",
+        "videoType": "ivideo",
+        "VideoTitle": "Badge (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/67ls7lt5hy"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47cc",
+        "videoType": "ivideo",
+        "VideoTitle": "Alert (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s96543u6u1"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47cd",
+        "videoType": "ivideo",
+        "VideoTitle": "Button Group (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/m9idqe8l4e"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47ce",
+        "videoType": "ivideo",
+        "VideoTitle": "Navbar (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4cbnxg5gn7"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47cf",
+        "videoType": "ivideo",
+        "VideoTitle": "Card (Component)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/w0w2e7rlpp"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d0",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid (Layout)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k046jdiq4z"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d1",
+        "videoType": "ivideo",
+        "VideoTitle": "Grid (Vertical Alignment)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hcxka8rlh1"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d2",
+        "videoType": "ivideo",
+        "VideoTitle": "Form Controls in Bootstrap",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4gzqk676pl"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d3",
+        "videoType": "ivideo",
+        "VideoTitle": "Select in Form",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x0ks3296dj"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d4",
+        "videoType": "ivideo",
+        "VideoTitle": "Checkbox &amp; Radio in Form",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/znco4153wc"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d5",
+        "videoType": "ivideo",
+        "VideoTitle": "Form Layout",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dkl49u5opn"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d6",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Question",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Bootstrap (Qs).pdf"
+      },
+      {
+        "videoId": "65e5d802da027ba7230f47d7",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solution",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Bootstrap (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "Project (CSS)",
+    "learningPath": [
+      {
+        "videoId": "65e83c187ec8f6161b0069c3",
+        "videoType": "pdf",
+        "VideoTitle": "Download Starter Assets",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Download Starter HTML (4).pdf"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c4",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting up",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/uumslsrgnh"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c5",
+        "videoType": "ivideo",
+        "VideoTitle": "Basics",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/i9m0nxil2p"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c6",
+        "videoType": "ivideo",
+        "VideoTitle": "Layout",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qluvhmth9f"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c7",
+        "videoType": "ivideo",
+        "VideoTitle": "Sidebar (Nav)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/n1lcytsj79"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c8",
+        "videoType": "ivideo",
+        "VideoTitle": "Sidebar (Library)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tqck86m5nu"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069c9",
+        "videoType": "ivideo",
+        "VideoTitle": "Library Boxes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8b38pqjuqb"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069ca",
+        "videoType": "ivideo",
+        "VideoTitle": "Sticky Nav",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9m1bu3b18m"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069cb",
+        "videoType": "ivideo",
+        "VideoTitle": "Cards",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/a310mp3ijl"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069cc",
+        "videoType": "ivideo",
+        "VideoTitle": "Footer Line",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kzyrz2f7mt"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069cd",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting up Player",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v58myl86an"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069ce",
+        "videoType": "ivideo",
+        "VideoTitle": "Player Controls",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cl4qr2kwch"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069cf",
+        "videoType": "ivideo",
+        "VideoTitle": "Playback Bar",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/b488wte9s2"
+      },
+      {
+        "videoId": "65e83c187ec8f6161b0069d0",
+        "videoType": "ivideo",
+        "VideoTitle": "Tailwind CSS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3ae8dn0640"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 1)",
+    "learningPath": [
+      {
+        "videoId": "65eabbda0c303df9c20a13c5",
+        "videoType": "ivideo",
+        "VideoTitle": "Introduction",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/spezzeyl23"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13c6",
+        "videoType": "ivideo",
+        "VideoTitle": "Using the Console",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/aouktqdc6y"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13c7",
+        "videoType": "ivideo",
+        "VideoTitle": "What is a Variable?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/pvjr5jy0kz"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13c8",
+        "videoType": "ivideo",
+        "VideoTitle": "Data Types in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s2w00r77zd"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13c9",
+        "videoType": "ivideo",
+        "VideoTitle": "Numbers in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v42aah277c"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13ca",
+        "videoType": "ivideo",
+        "VideoTitle": "Operations in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/zk57g1fj0c"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13cb",
+        "videoType": "ivideo",
+        "VideoTitle": "NaN in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/necswiot09"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13cc",
+        "videoType": "ivideo",
+        "VideoTitle": "Operator Precedence",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kb6pe3o14h"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13cd",
+        "videoType": "ivideo",
+        "VideoTitle": "let, const &amp; var Keywords",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4sfae63dlw"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13ce",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xu8hc2vjmz"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13cf",
+        "videoType": "ivideo",
+        "VideoTitle": "Assignment Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jssv6lfkhz"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d0",
+        "videoType": "ivideo",
+        "VideoTitle": "Unary Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ja7kn84bre"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d1",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bojfzt2vbt"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d2",
+        "videoType": "ivideo",
+        "VideoTitle": "Identifier Rules",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mlpss98fqf"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d3",
+        "videoType": "ivideo",
+        "VideoTitle": "Boolean in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0x53tl2xib"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d4",
+        "videoType": "ivideo",
+        "VideoTitle": "What is TypeScript?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/c48bixnd5b"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d5",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/yarv2ntb25"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d6",
+        "videoType": "ivideo",
+        "VideoTitle": "String in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/slbukg4jmp"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d7",
+        "videoType": "ivideo",
+        "VideoTitle": "String Indices",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u77cj6prp1"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d8",
+        "videoType": "ivideo",
+        "VideoTitle": "null &amp; undefined in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ltz5meydqk"
+      },
+      {
+        "videoId": "65eabbda0c303df9c20a13d9",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8z1pf5oge1"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 2)",
+    "learningPath": [
+      {
+        "videoId": "65eec10208f882f08b020b17",
+        "videoType": "ivideo",
+        "VideoTitle": "console.log( )",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kuo0d3hya5"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b18",
+        "videoType": "ivideo",
+        "VideoTitle": "Linking JS File",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/80l9s16hby"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b19",
+        "videoType": "ivideo",
+        "VideoTitle": "Template Literals",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fckri8bthj"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1a",
+        "videoType": "ivideo",
+        "VideoTitle": "Operators in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gqvoc0xrzz"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1b",
+        "videoType": "ivideo",
+        "VideoTitle": "Comparison Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vsoagygbge"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1c",
+        "videoType": "ivideo",
+        "VideoTitle": "Comparison for Non-numbers",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7699by6t3i"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1d",
+        "videoType": "ivideo",
+        "VideoTitle": "Conditional Statements",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5x3bdej0ii"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1e",
+        "videoType": "ivideo",
+        "VideoTitle": "if Statement",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6avv2atw8g"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b1f",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/99upbn3y23"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b20",
+        "videoType": "ivideo",
+        "VideoTitle": "else if Statement",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hfrrpng75e"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b21",
+        "videoType": "ivideo",
+        "VideoTitle": "else Statement",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vpqrn82pn1"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b22",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k6oxoh4stp"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b23",
+        "videoType": "ivideo",
+        "VideoTitle": "Nested if-else",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0rewx2akqs"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b24",
+        "videoType": "ivideo",
+        "VideoTitle": "Logical Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0zik6wk7p4"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b25",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wmi3evszyw"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b26",
+        "videoType": "ivideo",
+        "VideoTitle": "truthy &amp; falsy",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/m3tgtzrixo"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b27",
+        "videoType": "ivideo",
+        "VideoTitle": "Switch Statement",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/snubvpafxf"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b28",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sx0i9ya9rw"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b29",
+        "videoType": "ivideo",
+        "VideoTitle": "Alerts &amp; Prompts",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gk5tb8t3yv"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b2a",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part2 (Qs).pdf"
+      },
+      {
+        "videoId": "65eec10208f882f08b020b2b",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 2 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 3)",
+    "learningPath": [
+      {
+        "videoId": "65f0032d1b46ef0878094665",
+        "videoType": "ivideo",
+        "VideoTitle": "String Methods",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fixsqb2dz3"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094666",
+        "videoType": "ivideo",
+        "VideoTitle": "Trim Method",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kpy4sjltx6"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094667",
+        "videoType": "ivideo",
+        "VideoTitle": "Strings are Immutable in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kfihlycv75"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094668",
+        "videoType": "ivideo",
+        "VideoTitle": "ToUpperCase and ToLowerCase",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/f3q6uegu4z"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094669",
+        "videoType": "ivideo",
+        "VideoTitle": "Methods with Arguments - indexOf",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wjlt3cyp60"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466a",
+        "videoType": "ivideo",
+        "VideoTitle": "Method Chaining",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/t1aeogbktm"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466b",
+        "videoType": "ivideo",
+        "VideoTitle": "Slice Method",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k77jrv6pyy"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466c",
+        "videoType": "ivideo",
+        "VideoTitle": "Replace &amp; Repeat Method",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s19jr3ob8f"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466d",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/temesnvdzx"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466e",
+        "videoType": "ivideo",
+        "VideoTitle": "Array (Data Structure)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/c8qvyjho10"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809466f",
+        "videoType": "ivideo",
+        "VideoTitle": "Visualizing Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5im0cay2dl"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094670",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5im7vvucga"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094671",
+        "videoType": "ivideo",
+        "VideoTitle": "Arrays are Mutable",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/oiljvqqp67"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094672",
+        "videoType": "ivideo",
+        "VideoTitle": "Array Methods",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/en6sua4gny"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094673",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ocb9m0tryx"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094674",
+        "videoType": "ivideo",
+        "VideoTitle": "indexOf &amp; includes Method",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vdz4tg2bvq"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094675",
+        "videoType": "ivideo",
+        "VideoTitle": "Concatenation &amp; Reverse",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lbdu1j6nmp"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094676",
+        "videoType": "ivideo",
+        "VideoTitle": "Slice in Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sid788ij1k"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094677",
+        "videoType": "ivideo",
+        "VideoTitle": "Splice in Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/myw1xehr7b"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094678",
+        "videoType": "ivideo",
+        "VideoTitle": "Sort in Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bg4yanglhz"
+      },
+      {
+        "videoId": "65f0032d1b46ef0878094679",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/icnazfg2h8"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467a",
+        "videoType": "ivideo",
+        "VideoTitle": "Arrays References",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k58d4l1chg"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467b",
+        "videoType": "ivideo",
+        "VideoTitle": "Constant Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8t6noedw1d"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467c",
+        "videoType": "ivideo",
+        "VideoTitle": "Nested Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fzcfpgxvpq"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467d",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gq1t27s6lc"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467e",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part3 (Qs).pdf"
+      },
+      {
+        "videoId": "65f0032d1b46ef087809467f",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 3 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 4)",
+    "learningPath": [
+      {
+        "videoId": "65f2aaf161b8f9e6bb048815",
+        "videoType": "ivideo",
+        "VideoTitle": "for Loops",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7i14z21dbl"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048816",
+        "videoType": "ivideo",
+        "VideoTitle": "Dry Run",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/c4u36wce46"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048817",
+        "videoType": "ivideo",
+        "VideoTitle": "Print Odd Numbers",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/94k4bzm7y6"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048818",
+        "videoType": "ivideo",
+        "VideoTitle": "Print Even Numbers",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sxbimkb281"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048819",
+        "videoType": "ivideo",
+        "VideoTitle": "Infinite Loops",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vstfo6llzk"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881a",
+        "videoType": "ivideo",
+        "VideoTitle": "Print Multiplication Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mi1kpli62h"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881b",
+        "videoType": "ivideo",
+        "VideoTitle": "Nested for Loop",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0swaeryh3h"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881c",
+        "videoType": "ivideo",
+        "VideoTitle": "while Loops",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/deytf5rvwa"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881d",
+        "videoType": "ivideo",
+        "VideoTitle": "Favorite Movie",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cuj1e21djd"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881e",
+        "videoType": "ivideo",
+        "VideoTitle": "break Keyword",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/095yz04e43"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb04881f",
+        "videoType": "ivideo",
+        "VideoTitle": "Loops with Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qg4nrygin3"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048820",
+        "videoType": "ivideo",
+        "VideoTitle": "Loops with Nested Arrays",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s43z6stjju"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048821",
+        "videoType": "ivideo",
+        "VideoTitle": "for-of Loops",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vobqhybtu0"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048822",
+        "videoType": "ivideo",
+        "VideoTitle": "Nested for-of Loop",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ul49d8r61l"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048823",
+        "videoType": "ivideo",
+        "VideoTitle": "Todo App (only JS)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/zspnvru0ir"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048824",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 4 (Qs).pdf"
+      },
+      {
+        "videoId": "65f2aaf161b8f9e6bb048825",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 4 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 5)",
+    "learningPath": [
+      {
+        "videoId": "65f588d17c8e1217cc08dac5",
+        "videoType": "ivideo",
+        "VideoTitle": "Object Literals",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/53motfxpby"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dac6",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating Object Literals",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/x6c9szistw"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dac7",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating a Post",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/j47zfwr5tt"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dac8",
+        "videoType": "ivideo",
+        "VideoTitle": "Get Values",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/oy9itj4mov"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dac9",
+        "videoType": "ivideo",
+        "VideoTitle": "Conversion in Get Values",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hp1ouxa7g2"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08daca",
+        "videoType": "ivideo",
+        "VideoTitle": "Add / Update Values",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tww1vlti0e"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dacb",
+        "videoType": "ivideo",
+        "VideoTitle": "Nested Objects",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/365acm96l9"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dacc",
+        "videoType": "ivideo",
+        "VideoTitle": "Array of Objects",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/m3o8z64qol"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dacd",
+        "videoType": "ivideo",
+        "VideoTitle": "Math Object",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/n7heozkqcb"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dace",
+        "videoType": "ivideo",
+        "VideoTitle": "Random Integers",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/za6tz6puje"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dacf",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l09ld8zmjz"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dad0",
+        "videoType": "ivideo",
+        "VideoTitle": "Guessing Game",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/o8o60tkiru"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dad1",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 5 (Qs).pdf"
+      },
+      {
+        "videoId": "65f588d17c8e1217cc08dad2",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 5 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 6)",
+    "learningPath": [
+      {
+        "videoId": "65f7f655ad566ec564034463",
+        "videoType": "ivideo",
+        "VideoTitle": "What are functions?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rhh5nuag70"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034464",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs1",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/b32i8uz2v2"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034465",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 2",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/o4khmj8suj"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034466",
+        "videoType": "ivideo",
+        "VideoTitle": "Functions with Arguments",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gcm8d20j7g"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034467",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 3",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/m6p1o3wgm4"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034468",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 4",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6fbrl1rgeh"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034469",
+        "videoType": "ivideo",
+        "VideoTitle": "return Keyword",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4hh25d7rmk"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446a",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 5",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hssjd95lvw"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446b",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 6",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hh4r8iqawd"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446c",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Scope?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tdbg7v6ze9"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446d",
+        "videoType": "ivideo",
+        "VideoTitle": "Block Scope",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ya7mc0suvd"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446e",
+        "videoType": "ivideo",
+        "VideoTitle": "Lexical Scope",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vb5rfli99i"
+      },
+      {
+        "videoId": "65f7f655ad566ec56403446f",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs 7",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bc69qbesxw"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034470",
+        "videoType": "ivideo",
+        "VideoTitle": "Functions Expressions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e8x627i65v"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034471",
+        "videoType": "ivideo",
+        "VideoTitle": "Higher Order Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hq0lt0wny7"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034472",
+        "videoType": "ivideo",
+        "VideoTitle": "Higher Order Functions (Returns)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2pg5ecbzil"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034473",
+        "videoType": "ivideo",
+        "VideoTitle": "Methods",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rrf2hhc8y1"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034474",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/1-JS Part 6 (Qs).pdf"
+      },
+      {
+        "videoId": "65f7f655ad566ec564034475",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 6 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 7)",
+    "learningPath": [
+      {
+        "videoId": "65fb122133811a0593046ea5",
+        "videoType": "ivideo",
+        "VideoTitle": "'this' in JavaScript",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mzs9nim1qy"
+      },
+      {
+        "videoId": "65fb122133811a0593046ea6",
+        "videoType": "ivideo",
+        "VideoTitle": "Try &amp; Catch",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3zgecrii73"
+      },
+      {
+        "videoId": "65fb122133811a0593046ea7",
+        "videoType": "ivideo",
+        "VideoTitle": "Arrow Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/izabtcgf32"
+      },
+      {
+        "videoId": "65fb122133811a0593046ea8",
+        "videoType": "ivideo",
+        "VideoTitle": "Implicit Return in Arrow Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6szusil3ox"
+      },
+      {
+        "videoId": "65fb122133811a0593046ea9",
+        "videoType": "ivideo",
+        "VideoTitle": "Set TimeOut Function",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kz5398rjwr"
+      },
+      {
+        "videoId": "65fb122133811a0593046eaa",
+        "videoType": "ivideo",
+        "VideoTitle": "Set Interval Function",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6i13turqzg"
+      },
+      {
+        "videoId": "65fb122133811a0593046eab",
+        "videoType": "ivideo",
+        "VideoTitle": "this with Arrow Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/f74yd2uq0q"
+      },
+      {
+        "videoId": "65fb122133811a0593046eac",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/58p8fd8uy2"
+      },
+      {
+        "videoId": "65fb122133811a0593046ead",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 7 (Qs).pdf"
+      },
+      {
+        "videoId": "65fb122133811a0593046eae",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 7 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 8)",
+    "learningPath": [
+      {
+        "videoId": "65fd54daca060b2f29083673",
+        "videoType": "ivideo",
+        "VideoTitle": "Array Methods",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mtokve0os2"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083674",
+        "videoType": "ivideo",
+        "VideoTitle": "Map &amp; Filter",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6ocbv2c26d"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083675",
+        "videoType": "ivideo",
+        "VideoTitle": "Every &amp; Sum",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/eb0meiwv9q"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083676",
+        "videoType": "ivideo",
+        "VideoTitle": "Reduce Method",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jb64dom6hu"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083677",
+        "videoType": "ivideo",
+        "VideoTitle": "Maximum in Array",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ox3f2qz6b7"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083678",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hmdib7167x"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083679",
+        "videoType": "ivideo",
+        "VideoTitle": "Default Parameters",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fwvvobppyq"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367a",
+        "videoType": "ivideo",
+        "VideoTitle": "Spread",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ks4d3rueo9"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367b",
+        "videoType": "ivideo",
+        "VideoTitle": "Spread (Array Literals)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4c82s2pei0"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367c",
+        "videoType": "ivideo",
+        "VideoTitle": "Spread (Object Literals)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/05mwxhjjjg"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367d",
+        "videoType": "ivideo",
+        "VideoTitle": "Rest",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ksnbajccdh"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367e",
+        "videoType": "ivideo",
+        "VideoTitle": "Destructuring",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lx58f9r5co"
+      },
+      {
+        "videoId": "65fd54daca060b2f2908367f",
+        "videoType": "ivideo",
+        "VideoTitle": "Destructuring (Objects)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2r06xj8hxa"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083680",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Qs",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 8 (Qs).pdf"
+      },
+      {
+        "videoId": "65fd54daca060b2f29083681",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 8 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 9)",
+    "learningPath": [
+      {
+        "videoId": "66001b8ed971a5edcc0460b3",
+        "videoType": "ivideo",
+        "VideoTitle": "Introduction",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lgszqgmngu"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b4",
+        "videoType": "ivideo",
+        "VideoTitle": "What is DOM?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/nv7qaibtnw"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b5",
+        "videoType": "ivideo",
+        "VideoTitle": "Download Starter Code",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/j1ll02ifq0"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b6",
+        "videoType": "pdf",
+        "VideoTitle": "Link for Download",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Untitled document (1).pdf"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b7",
+        "videoType": "ivideo",
+        "VideoTitle": "Selecting Element by ID",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5kgm5vr4g6"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b8",
+        "videoType": "ivideo",
+        "VideoTitle": "Selecting Elements by Class Name",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/a2tzbv4avl"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460b9",
+        "videoType": "ivideo",
+        "VideoTitle": "Selecting Elements by Tag Name",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/t9mxsqdt1t"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460ba",
+        "videoType": "ivideo",
+        "VideoTitle": "Query Selectors",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/khn6kqza30"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460bb",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting Content in Objects",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ao1u2c44uo"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460bc",
+        "videoType": "ivideo",
+        "VideoTitle": "Manipulating Attributes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/pgnhuu7b5e"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460bd",
+        "videoType": "ivideo",
+        "VideoTitle": "Manipulating Style (with style attribute)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2f3aijk4qa"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460be",
+        "videoType": "ivideo",
+        "VideoTitle": "classList Property",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/p406jnjc7e"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460bf",
+        "videoType": "ivideo",
+        "VideoTitle": "Navigation on Page",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mr25nni8p0"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460c0",
+        "videoType": "ivideo",
+        "VideoTitle": "Adding Elements on Page",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8bcc7wsid2"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460c1",
+        "videoType": "ivideo",
+        "VideoTitle": "Removing Elements from Page",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2t70g5ap7m"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460c2",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jaxo1yisza"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460c3",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 9 (Qs) (1).pdf"
+      },
+      {
+        "videoId": "66001b8ed971a5edcc0460c4",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Solutions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 9 (Ans).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 10)",
+    "learningPath": [
+      {
+        "videoId": "6602e1c56fa05725760af7c6",
+        "videoType": "ivideo",
+        "VideoTitle": "DOM Events",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7lt225s1of"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7c7",
+        "videoType": "ivideo",
+        "VideoTitle": "Mouse/ Pointer Events",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/uy8peynijb"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7c8",
+        "videoType": "ivideo",
+        "VideoTitle": "Event Listeners",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6jd0qicega"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7c9",
+        "videoType": "ivideo",
+        "VideoTitle": "Activity",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/avydne6clt"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7ca",
+        "videoType": "ivideo",
+        "VideoTitle": "Event Listeners for Elements",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/q2isv9b2l2"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7cb",
+        "videoType": "ivideo",
+        "VideoTitle": "this in Event Listeners",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bmexbtupxx"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7cc",
+        "videoType": "ivideo",
+        "VideoTitle": "Keyboard Events",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9sq0oxdkot"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7cd",
+        "videoType": "ivideo",
+        "VideoTitle": "Form Events",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/263clup8qt"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7ce",
+        "videoType": "ivideo",
+        "VideoTitle": "Extracting Form Data",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ftal1nos5l"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7cf",
+        "videoType": "ivideo",
+        "VideoTitle": "More Events",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v1yddjbq8m"
+      },
+      {
+        "videoId": "6602e1c56fa05725760af7d0",
+        "videoType": "pdf",
+        "VideoTitle": "Assignment Questions",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS Part 10 (Qs).pdf"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Mini-Project)",
+    "learningPath": [
+      {
+        "videoId": "66054de53316a03e5f038f83",
+        "videoType": "ivideo",
+        "VideoTitle": "Event Bubbling",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/blh2uasyr1"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f84",
+        "videoType": "ivideo",
+        "VideoTitle": "Building Todo with DOM",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/z3n8y8ouh8"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f85",
+        "videoType": "ivideo",
+        "VideoTitle": "Event Delegation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/h52kttl5xg"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f86",
+        "videoType": "youtube",
+        "VideoTitle": "What is Simon Say Game?"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f87",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting up Project",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2bd44ya7px"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f88",
+        "videoType": "ivideo",
+        "VideoTitle": "Start Game",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ke1c4rasko"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f89",
+        "videoType": "ivideo",
+        "VideoTitle": "Flash Buttons &amp; Level Up",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0fkpaqmb1p"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f8a",
+        "videoType": "ivideo",
+        "VideoTitle": "Button Event Listeners",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jcknmculbi"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f8b",
+        "videoType": "ivideo",
+        "VideoTitle": "Matching Sequence",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/099ud0m1mb"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f8c",
+        "videoType": "ivideo",
+        "VideoTitle": "Reset Game",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3m01e16bug"
+      },
+      {
+        "videoId": "66054de53316a03e5f038f8d",
+        "videoType": "ivideo",
+        "VideoTitle": "Display Score",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ia7mqjffkt"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 11)",
+    "learningPath": [
+      {
+        "videoId": "6607c9533e27cf63340dbf05",
+        "videoType": "ivideo",
+        "VideoTitle": "JS Call Stack",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/w0h2vuor6p"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf06",
+        "videoType": "ivideo",
+        "VideoTitle": "Visualizing the Call stack",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1ctzendqpj"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf07",
+        "videoType": "ivideo",
+        "VideoTitle": "Breakpoints",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kdy2iif0cv"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf08",
+        "videoType": "ivideo",
+        "VideoTitle": "JS is Single Threaded",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6i4encngh4"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf09",
+        "videoType": "ivideo",
+        "VideoTitle": "Callback Hell",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6b9alrasfm"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0a",
+        "videoType": "ivideo",
+        "VideoTitle": "Setting up for Promises",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5zzbpvemzh"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0b",
+        "videoType": "ivideo",
+        "VideoTitle": "Refactoring with Promises",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/i7v5zyx4p3"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0c",
+        "videoType": "ivideo",
+        "VideoTitle": "then( ) and catch( ) methods",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/oe8qez31mk"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0d",
+        "videoType": "ivideo",
+        "VideoTitle": "Promise chaining",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ou1bq9zd0j"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0e",
+        "videoType": "ivideo",
+        "VideoTitle": "Results &amp; Errors in Promises",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9t7vkitwn4"
+      },
+      {
+        "videoId": "6607c9533e27cf63340dbf0f",
+        "videoType": "ivideo",
+        "VideoTitle": "Refactoring old code",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hh6mt3q7xn"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 12)",
+    "learningPath": [
+      {
+        "videoId": "660ac4760a8a184b240c3433",
+        "videoType": "ivideo",
+        "VideoTitle": "async Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/00xw4wu9cp"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3434",
+        "videoType": "ivideo",
+        "VideoTitle": "await Keyword",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qip2yrmu12"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3435",
+        "videoType": "ivideo",
+        "VideoTitle": "Handing Rejections",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/medwex4706"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3436",
+        "videoType": "ivideo",
+        "VideoTitle": "What is an API?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e5z6bj5njm"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3437",
+        "videoType": "ivideo",
+        "VideoTitle": "Accessing some APIs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qezu8jeuc6"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3438",
+        "videoType": "ivideo",
+        "VideoTitle": "What is JSON?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8hdgoxtfhm"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3439",
+        "videoType": "ivideo",
+        "VideoTitle": "Accessing JSON data",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k5mmnc5me0"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343a",
+        "videoType": "ivideo",
+        "VideoTitle": "API Testing Tools",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/93k4wmc5nq"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343b",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Ajax?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/edwbdjwiua"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343c",
+        "videoType": "ivideo",
+        "VideoTitle": "Https Verbs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/pmt2rfbo3g"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343d",
+        "videoType": "ivideo",
+        "VideoTitle": "Status Codes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/szz3soo9gu"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343e",
+        "videoType": "ivideo",
+        "VideoTitle": "Adding Information in URLs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/zgfpx294gw"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c343f",
+        "videoType": "ivideo",
+        "VideoTitle": "Https Headers",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/nsc02nqtmm"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3440",
+        "videoType": "ivideo",
+        "VideoTitle": "Our First API request",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ii8g0u890o"
+      },
+      {
+        "videoId": "660ac4760a8a184b240c3441",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Fetch with async-await",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/daxqokiizp"
+      }
+    ]
+  },
+  {
+    "title": "JavaScript (Part 13)",
+    "learningPath": [
+      {
+        "videoId": "660d73d58906427c9102b235",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Axios",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vhs1y9td7y"
+      },
+      {
+        "videoId": "660d73d58906427c9102b236",
+        "videoType": "ivideo",
+        "VideoTitle": "DogPictures API",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2o513nq034"
+      },
+      {
+        "videoId": "660d73d58906427c9102b237",
+        "videoType": "ivideo",
+        "VideoTitle": "Sending Headers with API requests",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9go7dhkw5p"
+      },
+      {
+        "videoId": "660d73d58906427c9102b238",
+        "videoType": "ivideo",
+        "VideoTitle": "Activity using Query Strings",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/h9w0qjl4ik"
+      },
+      {
+        "videoId": "660d73d58906427c9102b239",
+        "videoType": "pdf",
+        "VideoTitle": "Free APIs List for Project",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Free APIs for Project.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Terminal",
+    "learningPath": [
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e53",
+        "videoType": "ivideo",
+        "VideoTitle": "What is the Terminal?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ey6qnr2hy9"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e54",
+        "videoType": "ivideo",
+        "VideoTitle": "Different Terms related to Terminal",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1imj5234xb"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e55",
+        "videoType": "ivideo",
+        "VideoTitle": "(Window Users Only) Installing Git Bash",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/8goln6fxvk"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e56",
+        "videoType": "ivideo",
+        "VideoTitle": "Basic Commands",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ala4l7oruf"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e57",
+        "videoType": "ivideo",
+        "VideoTitle": "Navigation Commands",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/mtdrdqp496"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e58",
+        "videoType": "ivideo",
+        "VideoTitle": "Paths in Navigation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/k03g8l4cj0"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e59",
+        "videoType": "ivideo",
+        "VideoTitle": "Making Directories",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/849dm88k6b"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e5a",
+        "videoType": "ivideo",
+        "VideoTitle": "What are Flags?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xxiuxx15si"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e5b",
+        "videoType": "ivideo",
+        "VideoTitle": "Touch Command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/99gg4du91k"
+      },
+      {
+        "videoId": "660fa65a3a4c0bc8650f7e5c",
+        "videoType": "ivideo",
+        "VideoTitle": "Deleting Files &amp; Folders",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/svlm6sgums"
+      }
+    ]
+  },
+  {
+    "title": "Git &amp; Github",
+    "learningPath": [
+      {
+        "videoId": "6612b33693f3dcf208022625",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Git &amp; Github?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/s7nh1ketoj"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022626",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating a Github Account",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ns2u9cea51"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022627",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Github",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jk2zip2egv"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022628",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Git",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fcvyie8f92"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022629",
+        "videoType": "ivideo",
+        "VideoTitle": "Configuring Git",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/472a71icm9"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262a",
+        "videoType": "ivideo",
+        "VideoTitle": "Git with VSCode",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/y13qt8okw5"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262b",
+        "videoType": "ivideo",
+        "VideoTitle": "Clone command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/d21yx0xt39"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262c",
+        "videoType": "ivideo",
+        "VideoTitle": "Status command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ztdol9q64h"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262d",
+        "videoType": "ivideo",
+        "VideoTitle": "Add &amp; Commit Commands",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ude8bb0c27"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262e",
+        "videoType": "ivideo",
+        "VideoTitle": "Push command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rgra9vy549"
+      },
+      {
+        "videoId": "6612b33693f3dcf20802262f",
+        "videoType": "ivideo",
+        "VideoTitle": "Init Command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/yqh6t56r7h"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022630",
+        "videoType": "ivideo",
+        "VideoTitle": "Pushing Local repo",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/f1104nkg1c"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022631",
+        "videoType": "ivideo",
+        "VideoTitle": "Workflow",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vbezadw8rk"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022632",
+        "videoType": "ivideo",
+        "VideoTitle": "Git branches",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u2jgmtrk3h"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022633",
+        "videoType": "ivideo",
+        "VideoTitle": "Branch Commands",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tttxpkg1sb"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022634",
+        "videoType": "ivideo",
+        "VideoTitle": "Merging Branches",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/78jasrt865"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022635",
+        "videoType": "ivideo",
+        "VideoTitle": "Pull command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/khbwo02fcf"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022636",
+        "videoType": "ivideo",
+        "VideoTitle": "Merge Conflicts",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5bm3hdhr7y"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022637",
+        "videoType": "ivideo",
+        "VideoTitle": "Fixing Mistakes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3a8fdwggw6"
+      },
+      {
+        "videoId": "6612b33693f3dcf208022638",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Forking?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/o1w3gpzfql"
+      }
+    ]
+  },
+  {
+    "title": "Backend 1 (Node.js)",
+    "learningPath": [
+      {
+        "videoId": "661558d068b7c4eef20b1066",
+        "videoType": "ivideo",
+        "VideoTitle": "What is node.js?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3j17h4iwdw"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1067",
+        "videoType": "ivideo",
+        "VideoTitle": "Node Installation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ab8rlut8xe"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1068",
+        "videoType": "pdf",
+        "VideoTitle": "Installation Links",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Node Installation.pdf"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1069",
+        "videoType": "ivideo",
+        "VideoTitle": "Node REPL",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/yq0ukzsatp"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106a",
+        "videoType": "ivideo",
+        "VideoTitle": "Node Files",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/48cgbkmt1h"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106b",
+        "videoType": "ivideo",
+        "VideoTitle": "Process in Node",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/owunj0tshp"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106c",
+        "videoType": "ivideo",
+        "VideoTitle": "Export in Files",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e15x2ifhsk"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106d",
+        "videoType": "ivideo",
+        "VideoTitle": "Export in Directories",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l2g58t0sop"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106e",
+        "videoType": "ivideo",
+        "VideoTitle": "What is npm?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/sray9g3zo7"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b106f",
+        "videoType": "ivideo",
+        "VideoTitle": "Installing Packages",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/eftsku83q1"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1070",
+        "videoType": "ivideo",
+        "VideoTitle": "package.json",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ye57l0205g"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1071",
+        "videoType": "ivideo",
+        "VideoTitle": "Local v/s Global Installation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cay43p04c7"
+      },
+      {
+        "videoId": "661558d068b7c4eef20b1072",
+        "videoType": "ivideo",
+        "VideoTitle": "import modules",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vqw0jagv82"
+      }
+    ]
+  },
+  {
+    "title": "Backend 2 (Node : Express)",
+    "learningPath": [
+      {
+        "videoId": "6617f27366670474dc0ba6b6",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Express?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/y1art4smzu"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6b7",
+        "videoType": "ivideo",
+        "VideoTitle": "Getting started with Express",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/d2rpor1th1"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6b8",
+        "videoType": "ivideo",
+        "VideoTitle": "Handling requests",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dc1yfhoxeo"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6b9",
+        "videoType": "ivideo",
+        "VideoTitle": "Sending a Response",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/uufj401ejw"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6ba",
+        "videoType": "ivideo",
+        "VideoTitle": "Routing",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/99bhgejonh"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6bb",
+        "videoType": "ivideo",
+        "VideoTitle": "Installing Nodemon",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/n37htmkt60"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6bc",
+        "videoType": "ivideo",
+        "VideoTitle": "Path Parameters",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7lhnkcdd0e"
+      },
+      {
+        "videoId": "6617f27366670474dc0ba6bd",
+        "videoType": "ivideo",
+        "VideoTitle": "Query Strings",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jhk501y2z4"
+      }
+    ]
+  },
+  {
+    "title": "Backend 3 (Node : EJS)",
+    "learningPath": [
+      {
+        "videoId": "661a6bf894c07a779c0fba28",
+        "videoType": "ivideo",
+        "VideoTitle": "What is Templating?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xncad9zwgs"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba29",
+        "videoType": "ivideo",
+        "VideoTitle": "Using EJS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/b3m8ooudv4"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2a",
+        "videoType": "ivideo",
+        "VideoTitle": "Views Directory",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l5bk0h1rhq"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2b",
+        "videoType": "ivideo",
+        "VideoTitle": "Interpolation Syntax",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rshj8g7yvu"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2c",
+        "videoType": "ivideo",
+        "VideoTitle": "Passing data to EJS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/udb6jxayj3"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2d",
+        "videoType": "ivideo",
+        "VideoTitle": "Instagram EJS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gurkes7eox"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2e",
+        "videoType": "ivideo",
+        "VideoTitle": "Conditional Statements",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/l21se1cr8f"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba2f",
+        "videoType": "ivideo",
+        "VideoTitle": "Loops",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7o7drd9yra"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba30",
+        "videoType": "pdf",
+        "VideoTitle": "Download data.json",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/Git Cheatsheet.pdf"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba31",
+        "videoType": "ivideo",
+        "VideoTitle": "Instagram Page with EJS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qvta4re63z"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba32",
+        "videoType": "ivideo",
+        "VideoTitle": "Serving Static Files",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9bmz19bt71"
+      },
+      {
+        "videoId": "661a6bf894c07a779c0fba33",
+        "videoType": "ivideo",
+        "VideoTitle": "Includes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/wfx09hms4p"
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous",
+    "learningPath": [
+      {
+        "videoId": "661d538366a6bd02790d47a5",
+        "videoType": "ivideo",
+        "VideoTitle": "GET &amp; POST Request",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3zz181yc5x"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47a6",
+        "videoType": "ivideo",
+        "VideoTitle": "Handling POST requests",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/bers0vh58u"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47a7",
+        "videoType": "ivideo",
+        "VideoTitle": "Revisiting JS (OOPS)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ni3wkd1n2v"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47a8",
+        "videoType": "ivideo",
+        "VideoTitle": "Object Prototypes",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vbthz26rar"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47a9",
+        "videoType": "ivideo",
+        "VideoTitle": "Factory Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ydl26pb6p9"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47aa",
+        "videoType": "ivideo",
+        "VideoTitle": "New Operator",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/t8e4pneita"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47ab",
+        "videoType": "ivideo",
+        "VideoTitle": "Classes in JS",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/umttyy0tob"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47ac",
+        "videoType": "ivideo",
+        "VideoTitle": "Inheritance",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/i7dipcw13c"
+      },
+      {
+        "videoId": "661d538366a6bd02790d47ad",
+        "videoType": "pdf",
+        "VideoTitle": "Summary Sheet",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/JS OOPS 11 (Qs).pdf"
+      }
+    ]
+  },
+  {
+    "title": "Backend 4 (REST)",
+    "learningPath": [
+      {
+        "videoId": "66202dffa2a0b3ef6102c966",
+        "videoType": "ivideo",
+        "VideoTitle": "What is REST?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ij1sqqgtyj"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c967",
+        "videoType": "ivideo",
+        "VideoTitle": "CRUD Operations",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/z30zhqan05"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c968",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating RESTful APIs",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fvdjvvlx2n"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c969",
+        "videoType": "ivideo",
+        "VideoTitle": "Index Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/zxaii8tnz6"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96a",
+        "videoType": "ivideo",
+        "VideoTitle": "Create &amp; New Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e3y6jzb8vj"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96b",
+        "videoType": "ivideo",
+        "VideoTitle": "Redirect",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fewi3jcto2"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96c",
+        "videoType": "ivideo",
+        "VideoTitle": "Show Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7klpjzw6ex"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96d",
+        "videoType": "ivideo",
+        "VideoTitle": "Creating Ids (UUID)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/r0dejtg31g"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96e",
+        "videoType": "ivideo",
+        "VideoTitle": "Update Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/nfms23xxgx"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c96f",
+        "videoType": "ivideo",
+        "VideoTitle": "Edit Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/rybf24rlov"
+      },
+      {
+        "videoId": "66202dffa2a0b3ef6102c970",
+        "videoType": "ivideo",
+        "VideoTitle": "Destroy Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e4jnenjy3o"
+      }
+    ]
+  },
+  {
+    "title": "Starting with SQL",
+    "learningPath": [
+      {
+        "videoId": "6623833fdd4acf5369074ba6",
+        "videoType": "ivideo",
+        "VideoTitle": "What is a Database?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/g4sxru9ogm"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074ba7",
+        "videoType": "ivideo",
+        "VideoTitle": "SQL v/s NoSQL",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3zz5o8n5ky"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074ba8",
+        "videoType": "ivideo",
+        "VideoTitle": "What is SQL?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/iguaoqh77o"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074ba9",
+        "videoType": "ivideo",
+        "VideoTitle": "What is a Table?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lxeejarp76"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074baa",
+        "videoType": "ivideo",
+        "VideoTitle": "(For Windows) Installation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/2nh1p6u7jz"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bab",
+        "videoType": "ivideo",
+        "VideoTitle": "(For Mac) Installation",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ethzgmrbq0"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bac",
+        "videoType": "ivideo",
+        "VideoTitle": "Our First Database",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/5dn6hvuoxl"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bad",
+        "videoType": "ivideo",
+        "VideoTitle": "Our First Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/c2gdr7hbfr"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bae",
+        "videoType": "ivideo",
+        "VideoTitle": "Database Queries",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cqa217c5am"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074baf",
+        "videoType": "ivideo",
+        "VideoTitle": "CREATE Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3bunslv7hc"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bb0",
+        "videoType": "ivideo",
+        "VideoTitle": "What are Constraints?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dl3kh32y7w"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bb1",
+        "videoType": "ivideo",
+        "VideoTitle": "Key Constraints",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6zmwtojttd"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bb2",
+        "videoType": "ivideo",
+        "VideoTitle": "Primary &amp; Foreign Keys",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/yiun5r13e9"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bb3",
+        "videoType": "ivideo",
+        "VideoTitle": "INSERT into Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/7b0k1806m5"
+      },
+      {
+        "videoId": "6623833fdd4acf5369074bb4",
+        "videoType": "ivideo",
+        "VideoTitle": "SELECT Command",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4ay8nusd4e"
+      }
+    ]
+  },
+  {
+    "title": "SQL (Part 2)",
+    "learningPath": [
+      {
+        "videoId": "662521bca77dbb39da0f4d89",
+        "videoType": "ivideo",
+        "VideoTitle": "Where Clause",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/g6u80y1d0g"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8a",
+        "videoType": "ivideo",
+        "VideoTitle": "Operators in Where",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/hz5dwqmzds"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8b",
+        "videoType": "ivideo",
+        "VideoTitle": "Frequently Used Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/jagv8ip4q9"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8c",
+        "videoType": "ivideo",
+        "VideoTitle": "Limit Clause",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u4oxxgb6ee"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8d",
+        "videoType": "ivideo",
+        "VideoTitle": "Order By Clause",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3pv6q0wp45"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8e",
+        "videoType": "ivideo",
+        "VideoTitle": "Aggregate Functions",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/i11istkr7l"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d8f",
+        "videoType": "ivideo",
+        "VideoTitle": "Group By Clause",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4p4jplamxc"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d90",
+        "videoType": "ivideo",
+        "VideoTitle": "Having Clause",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/223x6qmada"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d91",
+        "videoType": "ivideo",
+        "VideoTitle": "General Order",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/03cqd2c9px"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d92",
+        "videoType": "ivideo",
+        "VideoTitle": "UPDATE Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/osofyniutv"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d93",
+        "videoType": "ivideo",
+        "VideoTitle": "DELETE Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/dwb8vohf8n"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d94",
+        "videoType": "ivideo",
+        "VideoTitle": "ALTER Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/1ku8gmpxoq"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d95",
+        "videoType": "ivideo",
+        "VideoTitle": "TRUNCATE Table",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/386dryn9cl"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d96",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs1",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qwlsckm81d"
+      },
+      {
+        "videoId": "662521bca77dbb39da0f4d97",
+        "videoType": "ivideo",
+        "VideoTitle": "Practice Qs2",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/i5clyb95v6"
+      }
+    ]
+  },
+  {
+    "title": "Backend 5 (Node with SQL)",
+    "learningPath": [
+      {
+        "videoId": "66279b9f65e0f596b4040fb5",
+        "videoType": "ivideo",
+        "VideoTitle": "Using Faker",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/quvbgtcmoa"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fb6",
+        "videoType": "ivideo",
+        "VideoTitle": "MySQL Package",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lls9hh42ff"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fb7",
+        "videoType": "ivideo",
+        "VideoTitle": "Using SQL from CLI",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u2wyxvmahf"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fb8",
+        "videoType": "ivideo",
+        "VideoTitle": "CREATE Table user",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0pby2dxdpw"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fb9",
+        "videoType": "ivideo",
+        "VideoTitle": "INSERT INTO user",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xgzr2bfyuw"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fba",
+        "videoType": "ivideo",
+        "VideoTitle": "Insert in Bulk",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/vi3exzka0t"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fbb",
+        "videoType": "ivideo",
+        "VideoTitle": "Routing",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/40orj74lug"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fbc",
+        "videoType": "ivideo",
+        "VideoTitle": "Home Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/fajnulc4cb"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fbd",
+        "videoType": "ivideo",
+        "VideoTitle": "Add Template",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/9y2gdhr4uq"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fbe",
+        "videoType": "ivideo",
+        "VideoTitle": "Show Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/o1mko1a2c2"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fbf",
+        "videoType": "ivideo",
+        "VideoTitle": "Edit Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3xipznx4c1"
+      },
+      {
+        "videoId": "66279b9f65e0f596b4040fc0",
+        "videoType": "ivideo",
+        "VideoTitle": "Update Route",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/3eiyvgcr02"
+      }
+    ]
+  },
+  {
+    "title": "Installation of MongoDb",
+    "learningPath": [
+      {
+        "videoId": "662b540774794f122e052878",
+        "videoType": "pdf",
+        "VideoTitle": "Installation Resources",
+        "DownloadUrl": "https://api.asia-se1.learnworlds.com/unlock/file?lw_client=62a6cd5e1e9e2fbf212d608d&amp;access_token=4x9H0OJxnoD8cmZA4uh2f6EVreCo330a1RkS3L4X&amp;file=pdf/MongoDB Installation.pdf"
+      }
+    ]
+  },
+  {
+    "title": "MongoDB (Part 1)",
+    "learningPath": [
+      {
+        "videoId": "662b540774794f122e052879",
+        "videoType": "ivideo",
+        "VideoTitle": "The Mongo Shell",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0awljac4zr"
+      },
+      {
+        "videoId": "662b540774794f122e05287a",
+        "videoType": "ivideo",
+        "VideoTitle": "How we store data? (BSON)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4uehzs2cn8"
+      },
+      {
+        "videoId": "662b540774794f122e05287b",
+        "videoType": "ivideo",
+        "VideoTitle": "Document &amp; Collection",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/4m2qpy9cg2"
+      },
+      {
+        "videoId": "662b540774794f122e05287c",
+        "videoType": "ivideo",
+        "VideoTitle": "INSERT in DB (InsertOne)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/drcgv5p91x"
+      },
+      {
+        "videoId": "662b540774794f122e05287d",
+        "videoType": "ivideo",
+        "VideoTitle": "INSERT in DB (InsertMany)",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kgtfb0kzx7"
+      },
+      {
+        "videoId": "662b540774794f122e05287e",
+        "videoType": "ivideo",
+        "VideoTitle": "FIND in DB",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/cb1adet0nn"
+      },
+      {
+        "videoId": "662b540774794f122e05287f",
+        "videoType": "ivideo",
+        "VideoTitle": "Query Operators",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/lhi18n51nx"
+      },
+      {
+        "videoId": "662b540774794f122e052880",
+        "videoType": "ivideo",
+        "VideoTitle": "UPDATE in DB",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/gml4v562vq"
+      },
+      {
+        "videoId": "662b540774794f122e052881",
+        "videoType": "ivideo",
+        "VideoTitle": "Nesting",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/phs956azrm"
+      },
+      {
+        "videoId": "662b540774794f122e052882",
+        "videoType": "ivideo",
+        "VideoTitle": "DELETE in DB",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/xjcyiwmf6c"
+      }
+    ]
+  },
+  {
+    "title": "MongoDB (Part 2)",
+    "learningPath": [
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d43",
+        "videoType": "ivideo",
+        "VideoTitle": "What is mongoose?",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/0cnittrdp9"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d44",
+        "videoType": "ivideo",
+        "VideoTitle": "Installation &amp; Setup",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/e1sutiizmp"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d45",
+        "videoType": "ivideo",
+        "VideoTitle": "Schema",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/qvzps25owz"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d46",
+        "videoType": "ivideo",
+        "VideoTitle": "Models",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/w0rziv5tpp"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d47",
+        "videoType": "ivideo",
+        "VideoTitle": "Insert in Mongoose",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/u12tue939i"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d48",
+        "videoType": "ivideo",
+        "VideoTitle": "Insert Multiple",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/kf2o68bsq7"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d49",
+        "videoType": "ivideo",
+        "VideoTitle": "Find in Mongoose",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/tub5omp66q"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4a",
+        "videoType": "ivideo",
+        "VideoTitle": "Update in Mongoose",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/6a79ghgeou"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4b",
+        "videoType": "ivideo",
+        "VideoTitle": "FindAndUpdate",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/w9ma3l2s5c"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4c",
+        "videoType": "ivideo",
+        "VideoTitle": "Delete in Mongoose",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/ngfiuovugd"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4d",
+        "videoType": "ivideo",
+        "VideoTitle": "Schema Validations",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/v75rh9dtw2"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4e",
+        "videoType": "ivideo",
+        "VideoTitle": "SchemaType Options",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/txqwblxz3y"
+      },
+      {
+        "videoId": "662e8c4fe3ea0f25760e6d4f",
+        "videoType": "ivideo",
+        "VideoTitle": "Validation in Updation &amp; Errors",
+        "DownloadUrl": "https://fast.wistia.com/embed/medias/p0gaommmex"
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+{
+    userInfo: {
+    user: {
+      id: '6869041103523349510',
+      shortId: '',
+      uniqueId: 'englishwithroop',
+      nickname: 'English with Roop',
+      avatarLarger: 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7331574701675806726~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=59548&refresh_token=1ae75377d1f036b2018eacc594e0f038&x-expires=1719478800&x-signature=96IoZqhjIqXqRo8OTA%2BNtQJs%2Fxg%3D&shp=a5d48078&shcp=81f88b70',
+      avatarMedium: 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7331574701675806726~c5_720x720.jpeg?lk3s=a5d48078&nonce=62685&refresh_token=48e65e2af6bcb1f99e4572ad65bed523&x-expires=1719478800&x-signature=gDueqfohhhjxPycqAq%2FR4BYgdjk%3D&shp=a5d48078&shcp=81f88b70',
+      avatarThumb: 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7331574701675806726~c5_100x100.jpeg?lk3s=a5d48078&nonce=64261&refresh_token=2b6d0ad579a57f05cce23f10294f7b2e&x-expires=1719478800&x-signature=uhpNIcYJk6X%2FtruLfqVjvvM5QbU%3D&shp=a5d48078&shcp=81f88b70',
+      signature: 'IELTS student Youtube te aao\nSearch =》 EnglishwithRoop',
+      createTime: 0,
+      verified: false,
+      secUid: 'MS4wLjABAAAAF_uUlUtsjpJgTIxS5ceoUIXMIGm_pXMt9_YmjKJGRad7DSm5aPWK20tnin3-kmnE',
+      ftc: false,
+      relation: 0,
+      openFavorite: true,
+      commentSetting: 0,
+      commerceUserInfo: [Object],
+      duetSetting: 0,
+      stitchSetting: 0,
+      privateAccount: false,
+      secret: false,
+      isADVirtual: false,
+      roomId: '',
+      uniqueIdModifyTime: 0,
+      ttSeller: false,
+      region: 'US',
+      downloadSetting: 0,
+      profileTab: [Object],
+      followingVisibility: 1,
+      recommendReason: '',
+      nowInvitationCardUrl: '',
+      nickNameModifyTime: 0,
+      isEmbedBanned: false,
+      canExpPlaylist: true,
+      profileEmbedPermission: 1,
+      language: 'en',
+      eventList: [],
+      suggestAccountBind: false
+    },
+    stats: {
+      followerCount: 3792,
+      followingCount: 766,
+      heart: 105800,
+      heartCount: 105800,
+      videoCount: 351,
+      diggCount: 29500,
+      friendCount: 126
+    },
+    itemList: []
+  },
+  shareMeta: {
+    title: 'English with Roop on TikTok',
+    desc: '@englishwithroop 3792 Followers, 766 Following, 105.8k Likes - Watch awesome short videos created by English with Roop'
+  },
+  statusCode: 0,
+  statusMsg: 'ok',
+  needFix: true
+}
